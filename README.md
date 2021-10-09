@@ -58,6 +58,7 @@ Dashboard:
 顧客終身價值：
 
 * [顧客終身價值是什麼？把握三種常見的LTV公式幫助預算評估](https://www.awoo.com.tw/blog/how-to-calculate-ltv-cltv/)
+* [LifeTimes](https://lifetimes.readthedocs.io/en/latest/)
 
 RFM:
 
